@@ -3,7 +3,7 @@ import streamlit as st
 from scipy.stats import norm
 import plotly.graph_objects as go
 
-st.set_page_config(page_title="Normal-Normal Bayesian Inference", layout="wide")
+st.set_page_config(page_title="Normal-Normal Bayesian Inference Simulator", layout="wide")
 
 # ── Global styles ─────────────────────────────────────────────────────────────
 st.markdown("""
