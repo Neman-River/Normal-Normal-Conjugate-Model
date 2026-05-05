@@ -1,4 +1,4 @@
-# Normal-Normal Bayesian Inference — Streamlit App
+# Normal-Normal Bayesian Inference Simulator
 
 Interactive simulator for Bayesian inference of an unknown mean using the **Normal-Normal conjugate model**.
 
