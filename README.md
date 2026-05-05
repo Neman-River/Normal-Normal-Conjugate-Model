@@ -2,6 +2,8 @@
 
 Interactive simulator for Bayesian inference of an unknown mean using the **Normal-Normal conjugate model**.
 
+https://normal-normal-conjugate-model.streamlit.app
+
 ## What it does
 
 Given continuous measurements from a Normal distribution with **known standard deviation σ** and **unknown mean μ**, the app updates a Normal prior on μ to produce an analytical posterior — no MCMC required.
@@ -44,8 +46,6 @@ The posterior mean is a precision-weighted average of the prior mean and the sam
 ```bash
 uv run streamlit run app.py
 ```
-
-Then open [http://localhost:8501](http://localhost:8501).
 
 ## Dependencies
 
